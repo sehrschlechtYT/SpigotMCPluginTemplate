@@ -3,3 +3,4 @@ version: '${project.version}'
 main: yt.sehrschlecht.plugintemplate.SpigotPlugin
 api-version: 1.19
 authors: [ sehrschlechtYT ]
+description: Created using sehrschlechtYT/SpigotMCPluginTemplate
